@@ -1,6 +1,9 @@
-# test-assignment
-React Native Test Assignment
+# Simple USERS CRUD App Built with React Native.
+
+How to run this project:
 
 npm install
 
-npm run start and in another terminal window npm run android
+npm start
+
+npm run android
